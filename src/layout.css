@@ -79,7 +79,7 @@ header .banner-text,
 }
 header .banner-text h3 {
   font: 18px/1.9em "librebaskerville-regular", serif;
-  color: #a8a8a8;
+  color: #dedcdc;
   margin: 0 auto;
   width: 70%;
   text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
@@ -247,7 +247,7 @@ ul#nav li.current a {
 }
 #about p {
   line-height: 30px;
-  color: #7a7a7a;
+  color: #c9c5c5;
 }
 
 #about .profile-pic {
@@ -332,7 +332,7 @@ ul#nav li.current a {
 }
 #resume .info {
   font: 16px/24px "librebaskerville-regular", serif;
-  color: #6e7881;
+  color: #c9c5c5;
   margin-bottom: 18px;
   margin-top: 9px;
   font-style: italic;

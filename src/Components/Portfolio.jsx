@@ -11,7 +11,7 @@ const Portfolio = ({ data }) => {
               <img
                 alt={title}
                 src={projectImage}
-                style={{ height: "176px", objectFit: "cover" }}
+                style={{objectFit: "cover" }}
               />
               <div className="overlay">
                 <div className="portfolio-item-meta">

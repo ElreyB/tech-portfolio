@@ -1,0 +1,20 @@
+{
+  "short_name": "portfolio",
+  "name": "Elrey's portfolio",
+  "icons": [
+    {
+      "src": "/images/tab-icon-s.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/tab-icon-m.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
