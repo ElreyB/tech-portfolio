@@ -1,0 +1,196 @@
+{
+  "main": {
+    "name": "Elrey Belmonti",
+    "occupation": "Frontend Developer",
+    "description": "Developer's eye and a Designer's heart. Always looking at the big picture without losing sight on the details while staying customer focused and to effectively communicate with team and high end clientele.",
+    "image": "profilepic.jpg",
+    "bio": [
+      "Are you looking for someone who bridges the gap between Front-End Development and UI/UX Design? That's where I come in. With over 4 years of front-end development experience and 2 years of expertise in UI/UX design, I’ve had the opportunity to lead impactful projects, such as the website redesign for SHARP Dance Company and the modernization of WP Creative Pets.",
+      "By combining technical skills like JavaScript, React, and HTML/CSS with a deep understanding of Figma and design thinking methodologies, I create digital experiences that are both functional and user-focused. My work at Mindera involved creating and maintaining a comprehensive component library, ensuring consistency and reusability across digital assets. I’m also skilled in usability testing, wireframing, and user interviews, ensuring that user needs are at the heart of every project I take on.",
+      "I’m passionate about solving complex problems, collaborating across teams, and delivering clean, efficient solutions that make an impact. If you're searching for a Front-End Developer or UX Designer who brings both technical know-how and design intuition to the table, let’s connect and explore how I can help your business grow.\nFeel free to reach out if you're interested in discussing projects, collaborations, or exploring digital solutions together."
+    ],
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "elbelmonti@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Philadelphia",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://docs.google.com/document/d/19BOXgg670IhUEZvK06RpwgCCvtwpha7MK0Kq2zmoI7U/edit?usp=drive_link",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ElreyB",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/elreyb",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "email",
+        "url": "mailto:elbelmonti@gmail.com",
+        "className": "fa fa-envelope"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Epicodus / Dev Bootcamp",
+        "degree": "FullStack",
+        "graduated": "August 2017 - February - 2018",
+        "description": "Hands-on experience coding 8-hours a day building full-stack web applications with HTML,CSS, JavaScript, Ruby on Rails and Angular, Git, Github, Algorithms and actively participated in Engineer Empathy lectures. Focusing on workflow, TDD, pair program, and writing maintainable, readable code. Also, volunteer coaching stress relieving techniques to peers."
+      }
+    ],
+    "work": [
+      {
+        "company": "Sharp Dance Company",
+        "title": "Full Stack Freelancer",
+        "years": "March 2019 - February 2024",
+        "description": [
+          "Built full stack application with React and Firebase",
+          "Worked on a team of two developers to deliver production ready results",
+          "Built custom admin data management dashboard for client"
+        ]
+      },
+      {
+        "company": "WP Creative Pets",
+        "title": "UX Designer",
+        "years": "October 2023",
+        "description": [
+          "Redesigned the company website to be modern and responsive, enhancing user engagement and accessibility.",
+          "Collaborated directly with clients to facilitate their use of Squarespace, ensuring a seamless experience.",
+          "Advised on future website strategies and logo rebranding, providing expert guidance on visual identity."
+        ]
+      },
+      {
+        "company": "Mindera",
+        "title": "Fronted Developer",
+        "years": "Apr 2021 - Jul 2022",
+        "description": [
+          "Created and maintained the client’s component library, ensuring consistency and reusability across digital assets.",
+          "Managed sole assignments while actively contributing to team decision-making processes.",
+          "Worked closely with other departments to meet project deadlines, ensuring cross-functional alignment and efficiency."
+        ]
+      },
+      {
+        "company": "University of Washington Full Stack Development Bootcamp at Trilogy",
+        "title": "Teaching Assistant",
+        "years": "August 2010 - February 2020",
+        "description": [
+          "Assist in teaching MERN stack to continuing education students",
+          "Provide articles, videos and 1:1 tutoring to support students as they learn",
+          "Empower students to become effective researchers and problem solvers",
+          "Address students' challenges and give them techniques to over come them"
+        ]
+      },
+      {
+        "company": "Formidable",
+        "title": "Software Engineer",
+        "years": "August 2018 - August 2019",
+        "description": [
+          "Successfully built customer facing applications in React",
+          "Contributed to Formidable's open source projects",
+          "Worked closely with clients to meet tight deadlines",
+          "Represented Formidable at meetups, conferences, and talks"
+        ]
+      },
+      {
+        "company": "ChalkDoc",
+        "title": "Fullstack Intern",
+        "years": "January 2018 - February 2018",
+        "description": [
+          "Identify and addressed tech debt",
+          "Organized daily goals and tasks",
+          "Refactored existing code base to use ES6",
+          "Reduced total source code size by 60%",
+          "Ensured consistent and thorough documentation"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "order": "1",
+        "title": "Sharp Dance",
+        "year": "2019-2024",
+        "category": "Site for a Philadelphia base dance company",
+        "image": "sharpdance.png",
+        "github": "https://github.com/ElreyB/sharp-dance"
+      },
+      {
+        "order": "4",
+        "title": "SavageX",
+        "year": "2018",
+        "category": "TechStyles site for Rihanna lingerie",
+        "image": "savagex.png",
+        "url": "https://www.savagex.com/"
+      },
+      {
+        "order": "3",
+        "title": "Mindera",
+        "year": "2021-2022",
+        "category": "Burberrry ecommerce website",
+        "image": "burberry.png",
+        "url": "https://us.burberry.com/?utm_source=GooglePlaces&utm_medium=organic&utm_campaign=US0084"
+      },
+      {
+        "order": "2",
+        "title": "WPCreativePets",
+        "year": "2023",
+        "category": "Local dog trainer website",
+        "image": "wpcreativepets.png",
+        "url": "https://www.wpcreativepets.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Elrey has the rare combination of technical skill, strategic vision, and team orientation. I asked him and three others to take over the development of a complex application that generates an unlimited number of math problems of an unlimited variety of problem types based on whatever parameters a user inputs. It took just a matter of hours before he had internalized the project code and made a plan to make it considerably more efficient and easy to understand. He works seamlessly on his own and with others, is well-respected and appreciated by his colleagues, and carries and ethic and initiative that lets him bring elegant solutions to complex problems. I was sad to lose him, and whoever gets him next will be very, very lucky to have him.",
+        "user": "Steve Walker"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
