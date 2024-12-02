@@ -153,7 +153,8 @@
         "year": "2019-2024",
         "category": "Site for a Philadelphia base dance company",
         "image": "sharpdance.png",
-        "github": "https://github.com/ElreyB/sharp-dance"
+        "github": "https://github.com/ElreyB/sharp-dance-v2",
+        "url": "https://sharpdancev2.netlify.app/"
       },
       {
         "order": "4",
