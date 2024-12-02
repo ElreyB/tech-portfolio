@@ -42,6 +42,12 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
+        "school": "DesignLab",
+        "degree": "UX/UI Designer",
+        "graduated": "March 2022 - January - 2024",
+        "description": "Designlab's UX Academy taught me skills needed for a UX design career. The program offered comprehensive lessons and tutorials, which I applied through hands-on projects. Participating in peer review sessions and weekly one-on-one mentor meetings enriched my learning experience. "
+      },
+      {
         "school": "Epicodus / Dev Bootcamp",
         "degree": "FullStack",
         "graduated": "August 2017 - February - 2018",
